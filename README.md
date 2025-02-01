@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @nkumar2171
-- 👀 I’m interested in Windows environment.
+- 👀 I’m interested in the Windows environment.
 - 🌱 I’m currently learning Windows.
